@@ -123,3 +123,30 @@ h2 {
 .testimonial-container {
     margin: 100px 350px;
 }
+
+
+.sign-up-container {
+    margin: 100px 250px;
+}
+
+.sign-up {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #3882f6;
+    height: 100px;
+    width: 650px;
+    align-items: center;
+    padding: 15px 80px;
+    border-radius: 8px;
+}
+
+.sign-up-btn {
+    border: white solid 2px;
+}
+
+.sign-up-text h3, .sign-up-text p {
+    margin: 0;
+}
+    
