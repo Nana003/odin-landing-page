@@ -16,7 +16,13 @@ body{
     display: flex;
     flex-direction: row;
     padding: 8px;
-    margin: 0 200px;
+    margin: 0 250px;
+}
+
+.hero-header {
+    display: flex;
+    flex-direction: row;
+    margin: 100px 250px;
 }
 
 ul{
@@ -45,4 +51,21 @@ a, .secondary-text{
     font-size: 24px;
     color: #f9fAf8;
     font-weight: 900;
+}
+
+button {
+    color: white;
+    background-color: #3882f6;
+    padding: 8px 24px;
+    border: none;
+    border-radius: 5px;
+}
+
+h2 {
+    margin: 0;
+}
+
+.text-header{
+    width:450px;
+    margin-right: auto;
 }
